@@ -52,12 +52,15 @@ You must design and build the homepage plus one other page of your choice:
   - Footer
 
 **About the Festival Page**
+  - Header
+  - Hero
   - Welcome to the Festival
   - Festival Sponsors
   - Winter Concert Schedule
   - Upcoming Spring Musical advert
+  - Footer
 
-You decide what content to include in each content block. Most fo the content from the printed brochure is available in these documents:
+You decide what content to include in each content block. Most of the content from the printed brochure is available in these documents:
   - Content: https://docs.google.com/document/d/1pAEbxl2dFg_uSNnqkwqRoShs_m-wY9HrdzrtwlunxEc/edit?usp=sharing
   - Schedules: https://drive.google.com/file/d/1t4WeX7atkPSiKdSJjHvF5yOthheh9fMS/view?usp=sharing 
 
@@ -90,15 +93,15 @@ You decide what content to include in each content block. Most fo the content fr
 - [ ] The navigation must be responsive and show a hamburger icon on mobile.
 - [ ] CSS transitions must be used. 
 - [ ] The code throughout the site must demonstrate a good understanding of flexbox.
-- [ ] HTML must be semantic and clean (images have alt tags). 
+- [ ] HTML must be semantic and clean (for ex: images have alt tags). 
 - [ ] CSS must be easy to read and efficient (use a clear naming convention for the classes and use CSS comments to organize the code into content blocks)
 
-**Testing:**
+## Testing
 You will need to provide screenshots of all the tests listed below. Fix errors as they occur and retest as appropriate:
 - [ ] Validate your HTML for all pages: https://validator.w3.org 
 - [ ] Validate your external stylesheet (by file upload): https://jigsaw.w3.org/css-validator 
 - [ ] Check your homepage is accessible (use your published website’s URL): https://wave.webaim.org  
-- [ ] Check your homepage’s page performance using Lighthouse
+- [ ] Check your homepage’s page performance using Google Lighthouse
 
 ## Grading
 This assignment is worth 10% of your final course grade broken down as follows: 
