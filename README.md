@@ -6,8 +6,8 @@ Design and build the homepage and one other page of your choice for the 2025 Com
 
 ## Process
 **Step 1: Plan what you will build**
-  1. Make sure you fully understand the assignment and the website's content
-  2. Choose the pages you will build
+  1. Make sure you fully understand the assignment and the website's content.
+  2. Choose the second page you will build.
   3. Map out or sketch the content for each page. Plan what content you will include in each content block and what your CSS naming strategy will be.
 
 **Step 2: Build the HTML**
@@ -18,7 +18,7 @@ Write semantic mobile-first HTML for both pages. Don’t include any divs or cla
   1. Style the homepage for mobile
   2. Style the second page for mobile
   3. Add media queries to style the homepage for desktop
-  4. Add desktop styles for the other page
+  4. Add desktop styles for the second page
 
 **Step 4: Test the website**
   1. Validate your HTML and CSS
@@ -66,9 +66,10 @@ You decide what content to include in each content block. Most of the content fr
 
 ## Website Technical Requirements
 **Tips:**
-  - Remember to make regular commits and pushes. You will lose 30% of your grade if your commits don't document your progress.
+  - Remember to make regular commits and pushes. **A penalty of 40% will be deducted for unstafisfactory commits that do not demonsrate manual coding.**
   - Only use the code we have learnt in class.
   - *Don't use AI!* Instead ask for help using the Slack channel.
+  - Every student submission should be unique, with its own content, design, HTML and CSS. 
 
 ### Website content must include:
 - [ ] 2 pages including the homepage
@@ -87,10 +88,11 @@ You decide what content to include in each content block. Most of the content fr
 - [ ] All code must be formatted
 - [ ] Comments must be included in the source code to point out features and explain the code.
 - [ ] At least 2 Google font families must be used (you can use as many font variants as you like)
+- [ ] Every submission must feature a visibly unique design. This includes distinct choices in color palette, font pairings, visual hierarchy, and structural layout. Submissions should not share a similar aesthetic or boilerplate AI style.
 - [ ] The page layouts must be coded mobile-first and include one breakpoint for screens above 1024px.
 - [ ] A max-width of 1170px must be used for the layout on desktop so that the content is centered and doesn’t stretch across the whole width of the viewport.
 - [ ] All anchor links must be functional.
-- [ ] The navigation must be responsive and show a hamburger icon on mobile.
+- [ ] The navigation must be responsive and show a hamburger icon on mobile using the code from the provided responsive nav codepen.
 - [ ] CSS transitions must be used. 
 - [ ] The code throughout the site must demonstrate a good understanding of flexbox.
 - [ ] HTML must be semantic and clean (for ex: images have alt tags). 
@@ -107,8 +109,8 @@ You will need to provide screenshots of all the tests listed below. Fix errors a
 This assignment is worth 10% of your final course grade broken down as follows: 
   - 30% for HTML
   - 40% for CSS
-  - 30% for finish (quality of content, levels of execution and finish)
+  - 30% for finish (uniqueness, quality of content, levels of execution and finish)
 
-A penalty of 30% will be deducted for unstafisfactory commits.
+A penalty of 40% will be deducted for unstafisfactory commits that do not demonsrate manual coding.
 
 **Once you have completed your exercise, push your edits to GitHub and submit it in Brightspace. Make sure to follow the instructions in the How to Complete Your Exercises Guide.**
