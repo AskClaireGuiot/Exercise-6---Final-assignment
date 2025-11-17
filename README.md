@@ -6,9 +6,9 @@ Design and build the homepage and one other page of your choice for the 2025 Com
 
 ## Process
 **Step 1: Plan what you will build**
-  1. Make sure you fully understand the assignment and the content
+  1. Make sure you fully understand the assignment and the website's content
   2. Choose the pages you will build
-  3. Map out or sketch the content for each page. Plan what the content you will include in each content block and what your CSS naming strategy will be.
+  3. Map out or sketch the content for each page. Plan what content you will include in each content block and what your CSS naming strategy will be.
 
 **Step 2: Build the HTML**
 
@@ -99,5 +99,13 @@ You will need to provide screenshots of all the tests listed below. Fix errors a
 - [ ] Validate your external stylesheet (by file upload): https://jigsaw.w3.org/css-validator 
 - [ ] Check your homepage is accessible (use your published website’s URL): https://wave.webaim.org  
 - [ ] Check your homepage’s page performance using Lighthouse
+
+## Grading
+This assignment is worth 10% of your final course grade broken down as follows: 
+  - 30% for HTML
+  - 40% for CSS
+  - 30% for finish (quality of content, levels of execution and finish)
+
+A penalty of 30% will be deducted for unstafisfactory commits.
 
 **Once you have completed your exercise, push your edits to GitHub and submit it in Brightspace. Make sure to follow the instructions in the How to Complete Your Exercises Guide.**
