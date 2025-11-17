@@ -2,14 +2,16 @@
 
 ## Objectives
 
-Design and build the homepage and one other page of your choice for the 2025 Comox Valley Band & Choir Festival website, based on the content provided in the printed brochure provided in class.  
+Design and build the homepage and one other page of your choice for the 2025 Comox Valley Band & Choir Festival website. The website will be based on the printed brochure provided in class.  
 
 ## Process
 **Step 1: Plan what you will build**
   1. Make sure you fully understand the assignment and the content
-  2. Map out or sketch the content for each page. Plan what the content you will include in each content block and what your CSS naming strategy might be.
+  2. Choose the pages you will build
+  3. Map out or sketch the content for each page. Plan what the content you will include in each content block and what your CSS naming strategy will be.
 
 **Step 2: Build the HTML**
+
 Write semantic mobile-first HTML for both pages. Don’t include any divs or classes.
 
 **Step 3: Style the pages**
@@ -23,7 +25,7 @@ Write semantic mobile-first HTML for both pages. Don’t include any divs or cla
   2. Test for accessibility and speed
 
 ## Pages and their Content Blocks
-You must design and build the homepage plus one other page of your choice:
+You must design and build the homepage plus one other page of your choice: 
 
 **Homepage**
   - Header
@@ -33,7 +35,7 @@ You must design and build the homepage plus one other page of your choice:
   - Meet the Adjudicators
   - Footer
 
-**Festival Schedule**
+**Festival Schedule Page**
   - Header
   - Hero
   - Concert Choir Festival: Monday November 17, 2025
@@ -41,7 +43,7 @@ You must design and build the homepage plus one other page of your choice:
   - Concert Band Festival: Wednesday, November 19, 2025
   - Footer
 
-**Festival Adjudicators**
+**Festival Adjudicators Page**
   - Header
   - Hero
   - Scott Leithead Biography
@@ -49,11 +51,15 @@ You must design and build the homepage plus one other page of your choice:
   - Kathie Van Lare Biography
   - Footer
 
-**About the Festival**
+**About the Festival Page**
   - Welcome to the Festival
   - Festival Sponsors
   - Winter Concert Schedule
   - Upcoming Spring Musical advert
+
+You decide what content to include in each content block. Most fo the content from the printed brochure is available in these documents:
+  - Content: https://docs.google.com/document/d/1pAEbxl2dFg_uSNnqkwqRoShs_m-wY9HrdzrtwlunxEc/edit?usp=sharing
+  - Schedules: https://drive.google.com/file/d/1t4WeX7atkPSiKdSJjHvF5yOthheh9fMS/view?usp=sharing 
 
 ## Website Technical Requirements
 **Tips:**
