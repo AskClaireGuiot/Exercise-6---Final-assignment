@@ -8,7 +8,7 @@ Design and build the homepage and one other page of your choice for the 2025 Com
 **Step 1: Plan what you will build**
   1. Make sure you fully understand the assignment and the website's content.
   2. Choose the second page you will build.
-  3. Map out or sketch the content for each page. Plan what content you will include in each content block and what your CSS naming strategy will be.
+  3. Map out or sketch the content for each page. Plan what content you will include in each content block and what your CSS naming strategy will be. For each content block, ask yourself: "What content would the visitor find helpful and useful"?
 
 **Step 2: Build the HTML**
 
@@ -94,7 +94,7 @@ You decide what content to include in each content block. Most of the content fr
 - [ ] All anchor links must be functional.
 - [ ] The navigation must be responsive and show a hamburger icon on mobile using the code from the provided responsive nav codepen.
 - [ ] CSS transitions must be used. 
-- [ ] The code throughout the site must demonstrate a good understanding of flexbox.
+- [ ] The code throughout the site must demonstrate a good understanding of flexbox. 
 - [ ] HTML must be semantic and clean (for ex: images have alt tags). 
 - [ ] CSS must be easy to read and efficient (use a clear naming convention for the classes and use CSS comments to organize the code into content blocks)
 
