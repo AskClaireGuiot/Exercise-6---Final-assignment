@@ -20,10 +20,6 @@ Write semantic mobile-first HTML for both pages. Don’t include any divs or cla
   3. Add media queries to style the homepage for desktop
   4. Add desktop styles for the second page
 
-**Step 4: Test the website**
-  1. Validate your HTML and CSS
-  2. Test for accessibility and speed
-
 ## Pages and their Content Blocks
 You must design and build the homepage plus one other page of your choice: 
 
@@ -91,19 +87,17 @@ You decide what content to include in each content block. Most of the content fr
 - [ ] Every submission must feature a visibly unique design. This includes distinct choices in color palette, font pairings, visual hierarchy, and structural layout. Submissions should not share a similar aesthetic or boilerplate AI style.
 - [ ] The page layouts must be coded mobile-first and include one breakpoint for screens above 1024px.
 - [ ] A max-width of 1170px must be used for the layout on desktop so that the content is centered and doesn’t stretch across the whole width of the viewport.
-- [ ] All anchor links must be functional.
 - [ ] The navigation must be responsive and show a hamburger icon on mobile using the code from the provided responsive nav codepen.
 - [ ] CSS transitions must be used. 
 - [ ] The code throughout the site must demonstrate a good understanding of flexbox. 
 - [ ] HTML must be semantic and clean (for ex: images have alt tags). 
 - [ ] CSS must be easy to read and efficient (use a clear naming convention for the classes and use CSS comments to organize the code into content blocks)
 
-## Testing
-You will need to provide screenshots of all the tests listed below. Fix errors as they occur and retest as appropriate:
+## Validate
+You will need to provide screenshots of all the validation listed below. Fix errors as they occur and retest as appropriate:
 - [ ] Validate your HTML for all pages: https://validator.w3.org 
 - [ ] Validate your external stylesheet (by file upload): https://jigsaw.w3.org/css-validator 
-- [ ] Check your homepage is accessible (use your published website’s URL): https://wave.webaim.org  
-- [ ] Check your homepage’s page performance using Google Lighthouse
+
 
 ## Grading
 This assignment is worth 10% of your final course grade broken down as follows: 
